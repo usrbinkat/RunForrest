@@ -1,0 +1,10 @@
+[copr:copr.fedorainfracloud.org:watersalesman:i3lock-color]
+name=Copr repo for i3lock-color owned by watersalesman
+baseurl=https://copr-be.cloud.fedoraproject.org/results/watersalesman/i3lock-color/fedora-$releasever-$basearch/
+type=rpm-md
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/watersalesman/i3lock-color/pubkey.gpg
+repo_gpgcheck=0
+enabled=0
+enabled_metadata=1

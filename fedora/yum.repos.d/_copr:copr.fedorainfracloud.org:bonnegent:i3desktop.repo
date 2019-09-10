@@ -1,0 +1,10 @@
+[copr:copr.fedorainfracloud.org:bonnegent:i3desktop]
+name=Copr repo for i3desktop owned by bonnegent
+baseurl=https://copr-be.cloud.fedoraproject.org/results/bonnegent/i3desktop/fedora-$releasever-$basearch/
+type=rpm-md
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/bonnegent/i3desktop/pubkey.gpg
+repo_gpgcheck=0
+enabled=0
+enabled_metadata=1

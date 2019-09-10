@@ -1,0 +1,7 @@
+[shells_fish_release_3]
+name=Fish shell - 3.x release series (Fedora_29)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/shells:/fish:/release:/3/Fedora_29/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/shells:/fish:/release:/3/Fedora_29/repodata/repomd.xml.key
+enabled=1
